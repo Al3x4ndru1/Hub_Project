@@ -1,0 +1,6 @@
+[submodule "Hub_System"]
+	path = Hub_System
+	url = https://github.com/Al3x4ndru1/Hub_System.git
+[submodule "Hub_Mobile_Application"]
+	path = Hub_Mobile_Application
+	url = https://github.com/Al3x4ndru1/Hub_Mobile_Application.git
